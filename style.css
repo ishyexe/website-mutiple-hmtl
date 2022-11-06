@@ -96,4 +96,12 @@ p {
   .navigation-links {
     display: none;
   }
+  h2 {
+    font-size: 40px;
+  }
+}
+@media (max-width: 1024x) {
+  .img-fluid {
+    align-items: center;
+  }
 }
